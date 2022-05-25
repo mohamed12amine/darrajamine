@@ -1,0 +1,167 @@
+*
+{
+	margin:0;
+	padding:0;
+}
+body
+{
+	font-family: sans-serif;
+}
+#nav-bar
+{
+	position: sticky;
+	top:0;
+	z-index: 10; 
+}
+.navbar
+{
+	background-image: linear-gradient(to right,#3361FF,#33E0FF);
+	padding: 0 !important;
+
+}
+.navbar-brand img
+{
+	height: 60px;
+	padding-left: 2px;
+	border-radius: 50%;
+}
+.momo img
+{
+	padding: 10px;
+	height: 50px;
+	left: 0px;
+	padding-left: 0px;
+}
+.navbar-nav li
+{
+	padding: 0 15px;
+	font-size: 20px;
+	margin-top: 6px;
+}
+.navbar-nav li a
+{
+	color: #fff !important;
+	font-weight: 600;
+	float: right;
+	text-align: left;
+	padding-top: 0px;
+}
+.dropdown-menu
+{
+	background-image: linear-gradient(to right,#3361FF,#b7fc49);
+}
+.dropdown-item
+{
+	background-color: rgba(192, 192, 192, 0.678);
+}
+.navbar-toggler-icon 
+{
+	color: rgba(255, 255, 255, 0);
+	font-size: 30px !important;
+}
+.navbar-toggler
+{
+	outline: none !important;
+}
+
+#banner
+{
+	background-image: linear-gradient(to right,#3361FF,#33E0FF);
+	color: #fff;
+	padding-top: 5%;  
+}
+.promo-title
+{
+	font-size: 48px;
+	font-weight: 750;
+	padding-top: 80px;
+}
+.carousel-inner
+{
+	width: 20%;
+}
+.bottom-img
+{
+	width: 100%;
+/*margin-top: 60px*/;	
+}
+.tfou
+{
+	font-family: Comic Sans MS;
+	font-size: 30px;
+	margin-left: 10px;
+}
+.logoMD
+{
+	border-left: 5px solid #33BEFF;
+	margin-top: 40px;
+	margin-bottom: 20px;
+}
+#logoMD
+{
+	padding: 80px 10;
+	margin:20px 10;
+	margin-top: 10px;
+}
+#logoMD img
+{
+	margin-left: 5px;
+	width: 100%;
+}
+.title::before
+{
+	content: '';
+	background: #33BEFF; 
+	height: 5px;
+	width: 190px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	transform: translateY(50px);
+}
+.title1::before
+{
+	content: '';
+	background: #33BEFF; 
+	height: 5px;
+	width: 140px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	transform: translateY(50px);
+}
+.title2::before
+{
+	content: '';
+	background: #33BEFF; 
+	height: 5px;
+	width: 160px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	transform: translateY(50px);
+}
+.title3::before
+{
+	content: '';
+	background: #33BEFF; 
+	height: 5px;
+	width: 395px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	transform: translateY(55px);
+}
+.title4::before
+{
+	content: '';
+	background: #33BEFF; 
+	height: 5px;
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	transform: translateY(55px);
+}
+
+	

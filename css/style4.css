@@ -1,0 +1,137 @@
+
+*
+{
+	margin:0px;
+	padding:0px ;
+	
+
+}
+body
+{
+	font-family: sans-serif;
+	background-image: linear-gradient(to right,#3361FF,#dfff50) ;
+	
+}
+#hobbies
+{
+	padding: 80px 10;
+	
+	margin:20px 10;
+	margin-top: 10px;
+}
+.A{
+	color: red;
+
+}
+#hobbies p
+{
+	font-weight: 500;
+	
+	width: 300px;
+}
+#hobbies ul
+{
+	margin-left: 20px;
+	font-weight: 500;
+}
+.hobbies
+{
+	margin-top: 40px;
+	border-left: 5px solid #33BEFF ;
+	margin-bottom: 20px;
+	
+}
+.testimonials-img
+{
+	margin-left: 0px;
+	width: auto;
+	height: 300px;
+}
+.title2::before
+{
+	content: '';
+	background: #33BEFF; 
+	height: 5px;
+	width: 160px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	transform: translateY(50px);
+}
+
+#footer
+{
+	background-image: linear-gradient(to right,#3361FF,#dfff50);
+	color: rgb(255, 255, 255);
+	width: 100%;
+	padding-top: 100px;
+}
+
+.footer-box
+{
+	padding-top: 10px;
+}
+.footer-box img
+{
+	width: 130px;
+	border-radius: 50%;
+	margin-bottom: 20px;
+	margin-left: 10px;
+}
+.footer-box .fa
+{
+	margin-right: 15px;
+	font-size: 25px;
+	height: 40px;
+	width: 40px;
+	text-align: center;
+	padding-top: 7px;
+	border-radius: 2px;
+	background-image: linear-gradient(to right,#3361FF,#33E0FF);
+}
+.footer-box .form-control
+{
+	box-shadow: none !important;
+	border: none;
+	border-radius: 0px;
+	margin-top: 10px;
+	max-width: 250px;
+}
+.footer-box .btn-primary
+{
+	box-shadow: none !important;
+	border: none;
+	border-radius: 0px;
+	margin-top: 10px;
+	background-image: linear-gradient(to right,#3361FF,#33E0FF);
+}
+.TTT
+{
+	margin-left: 3px;
+	font-weight: 600;
+}
+
+.copyright
+{
+	margin-bottom: 0;
+	padding-bottom: 20px;
+	text-align: center;
+}
+hr 
+{
+	background-color: rgb(255, 255, 255);
+	
+}
+#logo{
+	height: auto;
+	width: 150px;
+	border-radius: 50%;
+	
+}
+.home{
+	
+	color: black;
+	padding: 8px;
+	font-size: 30px;
+	
+}

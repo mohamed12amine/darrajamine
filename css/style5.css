@@ -1,0 +1,171 @@
+
+*
+{
+	margin:0;
+	padding:0;
+}
+body
+{
+	font-family: sans-serif;
+	background-image: linear-gradient(to right,#3361FF,#eb291b);
+	
+}
+.user-details
+{
+	
+	font-size: 20px;
+}
+#social-media
+{
+	padding: 20px ;
+	margin-bottom: 5%;
+	
+}
+#social-media p
+{
+	font-size: 36px;
+	font-weight: 600;
+	margin-bottom: 30px;
+}
+.socials-icons img
+{
+	width: 150px;
+	height:auto ;
+	transition: 0.2s;
+}
+.socials-icons a:hover img
+{
+	transform: translateY(-10px);
+}
+.title3::before
+{
+	content: '';
+	background: #33BEFF; 
+	height: 5px;
+	width: 395px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	transform: translateY(55px);
+	
+}
+
+.title4::before
+{
+	content: '';
+	background: #33BEFF; 
+	height: 5px;
+	width: 450px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	transform: translateY(55px);
+}
+.title3::before
+{
+	content: '';
+	background: #33BEFF; 
+	height: 5px;
+	width: 450px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	transform: translateY(55px);
+}
+.momo{
+	width: 250px ;
+	height: auto;
+	margin-left: 39%;
+	margin-bottom: 3%;
+	
+	
+}
+.logo{
+	height: auto;
+	width: 100px;
+	margin-bottom: 3%;
+	border-radius: 50%;
+}
+#footer
+{
+	
+	
+	width: auto;
+	padding-top: 40px;
+	margin-top: 10%;
+}
+
+.footer-box
+{
+	padding: 0px;
+	
+	
+}
+.footer-box img
+{
+	width: 130px;
+	border-radius: 50%;
+	margin-bottom: 20px;
+	margin-left: 10px;
+}
+.footer-box .fa
+{
+	margin-right: 15px;
+	font-size: 25px;
+	height: 40px;
+	width: 40px;
+	text-align: center;
+	padding-top: 7px;
+	border-radius: 2px;
+	
+}
+.footer-box .form-control
+{
+	box-shadow: none !important;
+	border: none;
+	border-radius: 0px;
+	margin-top: 10px;
+	max-width: 250px;
+}
+.footer-box .btn-primary
+{
+	box-shadow: none !important;
+	border: none;
+	border-radius: 0px;
+	margin-top: 10px;
+	
+}
+.TTT
+{
+	margin-left: 3px;
+	font-weight: 600;
+}
+
+.copyright
+{
+	margin-bottom: 0;
+	padding-bottom: 20px;
+	text-align: center;
+}
+input{
+	
+	padding: 6px;
+}
+hr 
+{
+	background-color: rgb(255, 255, 255);
+	
+}
+#logo{
+	height: auto;
+	width: 150px;
+	border-radius: 50%;
+	
+}
+.home{
+	
+	color: black;
+	padding: 8px;
+	font-size: 30px;
+	
+}

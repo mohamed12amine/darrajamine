@@ -1,0 +1,92 @@
+*
+{
+	margin:0;
+	padding:0;
+}
+body
+{
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	
+	background-image: url(/haidong.png) ;
+	
+}
+.home{
+	
+	color: rgb(255, 255, 255);
+	padding: 8px;
+	font-size: 30px;
+	
+}
+#haidong
+{
+	padding: 80px 10;
+	margin:20px 10;
+	margin-top: 10px;
+	
+}
+
+h1{
+	margin: 50px;
+	color: aliceblue;
+	font-size: 50px;
+	font-style: italic;
+}
+div{
+	margin-left: 10%;
+}
+
+
+
+video{
+	margin-left: 25%;
+	margin-top: 60px;
+}
+.haidong h2{
+	margin: 20px;
+	color: aliceblue;
+	font-style: oblique;
+	color: bisque;
+	
+
+}
+.haidong P{
+	color: aliceblue;
+	font-size: 25px;
+	
+}
+.title2::before
+{
+	content: '';
+	background: #968143; 
+	height: 5px;
+	width: 300px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	transform: translateY(50px);
+}
+p{
+	color: rgb(255, 255, 255);
+	font-size: 20px;
+
+}
+#haidong2{
+	padding: 80px 10;
+	margin:20px 10;
+	margin-top: 10px;
+	background-color: rgb(52, 56, 56);
+
+}
+.title6::before
+{
+	content: '';
+	background: #f5f2e8; 
+	height: 5px;
+	width: 	550px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	transform: translateY(50px);
+}
+
+
